@@ -37,7 +37,7 @@ utilizing the generalized linear model...*
 ## Pandemic Era Policing: A Mode of Felony Arrests in California [(Bst 223 Final Project].
 
 *Various news outlets have been reporting an increase in crime across the nation [1,2,3]. California in particular
-represents a large portion of these crimes. With soft-on-crime policies naturally favored by the democraticmajority state government, 
+represents a large portion of these crimes. With soft-on-crime policies naturally favored by the democratic majority state government, 
 and the Defund the Police Movement of recent years due to public outrage due
 to events such as the George Floyd incident, law enforcement agencies have developed poor public image.
 Alarmingly, 2021 marks the first year where there has been a decrease in law enforcement personnel in police
