@@ -1,6 +1,8 @@
 # Projects in UC Davis Biostatistics Courses
 
 Here are a collection of graduate-level biostatistics projects completed during my time at UC Davis while completing my MS in Applied Mathematics. 
+All the code for each project is included in the appendix section of the corresponding reports.
+Below are excerpts from the introductions of the project reports. 
 
 ## Survival Analysis for Chlorhexidine Gluconate Protocols of *Staphyloccus aureus* Infection Treatment [Bst 222 Midterm Project].
 
