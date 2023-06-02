@@ -34,7 +34,7 @@ from data made available by the Data and Program Library Service at the Universi
 utilizing the generalized linear model...*
 
 
-## Pandemic Era Policing: A Mode of Felony Arrests in California [(Bst 223 Final Project].
+## Pandemic Era Policing: A Model of Felony Arrests in California [(Bst 223 Final Project].
 
 *Various news outlets have been reporting an increase in crime across the nation [1,2,3]. California in particular
 represents a large portion of these crimes. With soft-on-crime policies naturally favored by the democratic majority state government, 
