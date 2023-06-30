@@ -47,7 +47,7 @@ on the basis of social factors. We study this question with the generalized line
 
 ## 5. Revisiting Laser Tattoo Removal Complications on the Formerly Incarcerated and Reformed [Bst-224-Final-Project.pdf]
 
-*[A revised analysis utilized generalized estimating equation GLM for longitudinal data, correctly incorporating correlated data.] This project revisits an older analysis that I completed while I was an undergraduate studying pure math and statistics. The original project was a joint collaboration with a nonprofit, Homeboy Industries, which is the largest gang rehabilitation program in the United States, and headquartered in Los Angeles, providing job training, employment and most important to former gang members, tattoo removal...*
+*[A revised analysis utilizing generalized estimating equation GLM for longitudinal data, correctly incorporating correlated data.] This project revisits an older analysis that I completed while I was an undergraduate studying pure math and statistics. The original project was a joint collaboration with a nonprofit, Homeboy Industries, which is the largest gang rehabilitation program in the United States, and headquartered in Los Angeles, providing job training, employment and most important to former gang members, tattoo removal...*
 
 ## 6. Employment Prestige After Biochemistry PhD: An Observational Study with Causal Inference Analysis [Bst-250-Final-Project.pdf]
 
@@ -57,7 +57,7 @@ only been increasing with no sign of decline. Yet, the number of academic positi
 postdoctoral positions, are not growing at a proportionate rate with most seeking industry position
 (i.e., academic job market is incredibly competitive). In this project we explore what activities if
 any have any causal effect on academic job market outcomes for those seeking academic careers in
-science and engineering.*
+science and engineering...*
 
 ## 7. A Phase III randomized controlled trial of progressive resistance exercise training on shoulder dysfunction caused by spinal accessory neurapraxia/neurectomy in head and neck cancer survivors. [Bst-225-Group-Project.pdf]
 
